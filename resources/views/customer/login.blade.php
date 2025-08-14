@@ -147,7 +147,7 @@
             </div>
         </div>
         <div class="login-box">
-            <h2>LOGIN</h2>
+            <h2>LOGIN local</h2>
             @if ($errors->any())
                 <div class="alert alert-danger">
                     <ul>
